@@ -8,10 +8,9 @@ Before publishing this policy, replace the bracketed contact details with your r
 
 ## 1. Who we are
 
-WeightCheck is operated by **[Your legal business name]**.
+WeightCheck is operated by **WeightCheck**.
 
-Contact: **[privacy email address]**  
-Mailing address: **[business mailing address]**
+Contact: **mrutopiax@gmail.com**  
 
 ## 2. Information we collect
 
@@ -96,6 +95,5 @@ We may update this Privacy Policy from time to time. We will post the updated ve
 
 For privacy questions, requests, or complaints, contact:
 
-**[Your legal business name]**  
-**[privacy email address]**  
-**[business mailing address]**
+**Weight Check**  
+**mrutopiax@gmail.com**  
